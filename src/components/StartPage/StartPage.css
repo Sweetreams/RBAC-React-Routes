@@ -1,0 +1,16 @@
+.container{
+    width: 1140px;
+    margin: 0 auto;
+    height: 100%;
+}
+.section_startPage{
+    width: 100%;
+}
+
+.startPage_title{
+    
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    justify-content: center;
+}

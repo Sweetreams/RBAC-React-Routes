@@ -1,0 +1,17 @@
+.header{
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+    padding: 30px;
+}
+
+.header a {
+    color: rgb(134, 134, 134);
+    text-decoration: none;
+}
+
+.header a:hover {
+    color: #000;
+    text-decoration: underline;
+    transition: all .3s;
+}
